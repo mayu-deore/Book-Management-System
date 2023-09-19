@@ -1,0 +1,29 @@
+{
+    "books": [
+    {
+      "id": 1,
+      "title": "Book 1",
+      "author": "Author 1",
+      "publishDate": "2022-01-01",
+      "publisher": "Publisher 1",
+      "overview": "This is Book 1"
+    },
+    {
+      "id": 2,
+      "title": "Book 2",
+      "author": "Author 2",
+      "publishDate": "2022-02-02",
+      "publisher": "Publisher 2",
+      "overview": "This is Book 2"
+    },
+    {
+        "id": 3,
+        "title": "Book 3",
+        "author": "Author 3",
+        "publishDate": "2022-03-03",
+        "publisher": "Publisher 3",
+        "overview": "This is Book 3"
+      }
+  ]
+}
+  
